@@ -3,18 +3,18 @@
 #
 
 # Name of your site (displayed in the header)
-name: "lemon's blog"
+name: "ZY's blog"
 # Short bio or description (displayed in the header)
-description: "个人技术公众号：程序员柠檬  分享编程资源 | 学习路线"
+description: "个人技术blog"
 
 #
 # Flags below are optional
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/lemonchann/images/raw/master/gzh/%E6%96%87%E6%9C%AB%E6%8E%A8%E5%B9%BF%E6%96%87%E6%A1%88.png
+avatar: https://zy0410.oss-cn-guangzhou.aliyuncs.com/%E5%A4%B4%E5%83%8F.jpg
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://github.com/lemonchann/lemonchann.github.io/raw/master/images/favicon.ico
+favicon: https://github.com/zy0410/zy0410.github.io/raw/master/images/favicon.ico
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
@@ -39,11 +39,11 @@ footer-links:
   #weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<username>
   dribbble:
-  zhihu: ning-meng-cheng-31-94
-  email: llong87@163.com
+  zhihu: zy
+  email: 15176241048@163.com
   facebook:
   flickr:
-  github: lemonchann 
+  github: zy0410
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
@@ -55,7 +55,7 @@ footer-links:
   youtube:
 
 # Text under the icons in footer
-footer-text: Copyright (c) 2019 lemon
+footer-text: Copyright (c) 2024 ZY
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
@@ -65,15 +65,15 @@ disqus: # fromendworld
 gitalk:
   clientID: bd65d5c0df878155b7fa
   clientSecret: d0220762c05c2d6b6f6152a0f0e4b6b090de9729
-  repo: lemonchann.github.io
-  owner: lemonchann
+  repo: zy0410.github.io
+  owner: zy0410
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 #google_analytics: 
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://lemonchann.github.io
+url: https://zy0410.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
