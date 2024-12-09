@@ -70,6 +70,10 @@
           <option name="url" value="https://github.com/NanmiCoder/MediaCrawler.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/WuJunJie521/RuoYi.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\JAVA" />
