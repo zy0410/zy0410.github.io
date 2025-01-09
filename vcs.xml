@@ -82,6 +82,10 @@
           <option name="url" value="https://gitee.com/leifengyang/gulimall.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/beetle082/JsonView.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\JAVA" />
